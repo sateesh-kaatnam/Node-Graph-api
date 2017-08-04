@@ -1,6 +1,6 @@
+
 /*
 				To post a picture in facebook using graph api.
-
 Make sure you have generated user-id and access token from the facebook graph api.
 Get the following user data permissions 
 1) Publish_pages

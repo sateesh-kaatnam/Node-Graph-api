@@ -14,8 +14,6 @@ const request = require('request-promise');
 const id = 'Enter ID here';
 //User-accesstoken  
 const access_token='Enter Access Token here';
-//Url of the image that has to be uploded
-var imgurl='Image URL Here';
 //Status Update
 var message='Enter the status to be posted';
 const postStatusUpdate = {  
